@@ -4,6 +4,7 @@
 ## This repo contains tasks we request interviewees to complete
 
 * This repository should be forked, candidates should work in their own forked versions.
+Please don't open pull requests with solutions agains this repository.
 * No tasks require the use of any paid services.
 * For all of the following tasks please use your favourite tools.
 * During the interview the interviewee guides us through
